@@ -38,7 +38,6 @@ void Person::amIOld()
 
 void Person::yearPasses()
 {
-
   age = age + 1;
 }
 

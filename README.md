@@ -1,6 +1,6 @@
 # 30 Days of Code
 
-This repo contains the solutions in different programming languages - mainly C/C++ and python - to HackerRank 30 days of Code tasks (https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+This repo contains the solutions in different programming languages - mainly C/C++ and python - to HackerRank's 30 days of Code challenges (https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 ## Contributing
 

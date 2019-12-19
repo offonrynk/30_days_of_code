@@ -6,7 +6,7 @@ Every possible contribution is desired and most welcome. You can easily contribu
 
 ### New Issue
 
-If you desire to add **new** solutions, you will ned to create an issue. Please provide a description for it in the issue request and once it is reviewed, you can then start working on it.
+If you desire to add **new** solutions, you will need to create an issue. Please provide a description for it in the issue request and once it is reviewed, you can then start working on it.
 
 ## Pull Request Process
 

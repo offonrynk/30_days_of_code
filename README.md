@@ -9,3 +9,7 @@ All contributions to this project are welcomed. Contributing solutions to the ch
 You can contribute either via issues on GitHub or by opening a bug report.
 
 Please see the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more information.
+
+## License
+
+This project is licensed under the terms of the [MIT LICENSE](LICENSE.md)
